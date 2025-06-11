@@ -1,0 +1,17 @@
+{
+  "name": "keda-test",
+  "version": "1.0.0",
+  "description": "Collection of JavaScript algorithms with unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Prasdika",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {}
+}
