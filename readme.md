@@ -9,7 +9,7 @@ This repository contains a collection of JavaScript algorithms with comprehensiv
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/javascript-algorithms.git
+git clone https://github.com/Abin-Septian/keda-test-1
 cd javascript-algorithms
 npm install
 ```
